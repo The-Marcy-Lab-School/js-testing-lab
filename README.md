@@ -20,6 +20,6 @@ In cases like these, we can help ourselves by using an automated test suite. Dev
 
 1. Run the test suite by running `npx jest app.test.js`. 
 
-2. Read the error messages carefully.
+2. Read the test report carefully.
 
 3. Fix the functions so that all of the tests pass. 
