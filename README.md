@@ -1,4 +1,4 @@
-# Testing
+# Intro to Testing Lab
 
 As we mentioned before, reading and understanding errors is an important part of your journey to becoming a better programmer. However, sometimes our code might run without a syntax or runtime error, but still not produce the expected result. Check out the following code:
 
@@ -20,4 +20,6 @@ In cases like these, we can help ourselves by using an automated test suite. Dev
 
 1. Run the test suite by running `npx jest app.test.js`. 
 
-2. Fix the defined functions so that all of the tests pass. 
+2. Read the error messages carefully.
+
+3. Fix the functions so that all of the tests pass. 
